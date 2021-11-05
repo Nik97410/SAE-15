@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/naval.dir/naval.c.o CMakeFiles/naval.dir/affiche_plateau.c.o CMakeFiles/naval.dir/bateaux.c.o CMakeFiles/naval.dir/plateau.c.o CMakeFiles/naval.dir/tir.c.o CMakeFiles/naval.dir/tir-bat.c.o CMakeFiles/naval.dir/tir_bat_plat.c.o CMakeFiles/naval.dir/touche.c.o  -o naval 
